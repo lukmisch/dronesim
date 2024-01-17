@@ -4,10 +4,10 @@
 
 Team Number: 010-83
 
-- Ethan Lynch - lynch868 
-- Xavier Lopez - mart6034
-- Luke Mische - misch109
-- Daryl Yap - yap00006
+- Ethan Lynch
+- Xavier Lopez
+- Luke Mische 
+- Daryl Yap
 
 ## About The Project
 
